@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "you are able to type here and submit",
+      "rating": 5,
+      "id": "4"
+    },
+    {
+      "id": "722a",
+      "text": "another feedback, to test the data",
+      "rating": 5
+    },
+    {
+      "id": "6386",
+      "text": "this is a new feedback",
+      "rating": 9
+    }
+  ]
+}

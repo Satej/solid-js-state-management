@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@solidjs/router": "^0.14.1",
+    "solid-icons": "^1.1.0"
+  }
+}
